@@ -53,7 +53,7 @@ blinking = "Off"
 shape = "Block"
 
 [env]
-TERM = "xterm-256color"
+# TERM = "xterm-256color"
 
 [font]
 size = 20
@@ -61,10 +61,6 @@ size = 20
 [font.bold]
 family = "CaskaydiaCove Nerd Font Mono"
 style = "SemiLight"
-
-# [font.glyph_offset]
-# x = 0
-# y = 0
 
 [font.italic]
 family = "CaskaydiaCove Nerd Font Mono"
@@ -101,5 +97,5 @@ startup_mode = "Maximized"
 # lines = 80
 
 [window.padding]
-x = 8
-y = 8
+x = 0
+y = 0
