@@ -58,21 +58,48 @@ shape = "Block"
 [font]
 size = 20
 
-[font.bold]
-family = "CaskaydiaCove Nerd Font Mono"
-style = "SemiLight"
-
-[font.italic]
-family = "CaskaydiaCove Nerd Font Mono"
-style = "Light Italic"
-
-[font.normal]
-family = "CaskaydiaCove Nerd Font Mono"
-style = "Light"
+# For CaskaydiaCove Nerd Font
+# [font.bold]
+# family = "CaskaydiaCove Nerd Font Mono"
+# style = "SemiLight"
+#
+# [font.italic]
+# family = "CaskaydiaCove Nerd Font Mono"
+# style = "Light Italic"
+#
+# [font.normal]
+# family = "CaskaydiaCove Nerd Font Mono"
+# style = "Light"
 
 # [font.offset]
 # x = 0
 # y = 0
+
+# For JetBrains Fonts
+[font.bold]
+family = "JetBrainsMono Nerd Font Mono"
+style = "Regular"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font Mono"
+style = "Thin Italic"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font Mono"
+style = "Thin"
+
+# For Other Fonts
+# [font.bold]
+# family = "Victor Mono"
+# style = "Regular"
+#
+# [font.italic]
+# family = "Victor Mono"
+# style = "Italic"
+#
+# [font.normal]
+# family = "Victor Mono"
+# style = "Thin"
 
 [mouse]
 hide_when_typing = true
